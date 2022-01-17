@@ -1,6 +1,6 @@
 # clearvision-backgrounds
-My background collection for clearvision
-I do NOT own these wallpapers!
+My background collection for clearvision  
+__**I do NOT own these wallpapers!**__
 
 ## Credits
 ### wp5621202-star-trek-tos-desktop-4k-wallpapers.jpg
